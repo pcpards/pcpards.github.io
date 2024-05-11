@@ -1,2 +1,92 @@
 #### pcpards.github.io
 welcome to the site. 
+<a href="https://pcpartpicker.com/list/wnhyz6">PCPartPicker Part List</a>
+<table class="pcpp-part-list">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/g94BD3/amd-ryzen-5-5600x-37-ghz-6-core-processor-100-100000065box">AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/g94BD3/amd-ryzen-5-5600x-37-ghz-6-core-processor-100-100000065box">$119.00 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/PDsnTW/msi-b550m-pro-vdh-wifi-micro-atx-am4-motherboard-b550m-pro-vdh-wifi">MSI B550M PRO-VDH WIFI Micro ATX AM4 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/PDsnTW/msi-b550m-pro-vdh-wifi-micro-atx-am4-motherboard-b550m-pro-vdh-wifi">$99.49 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/Cf98TW/gskill-ripjaws-v-series-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-f4-3200c16d-16gvkb">G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/Cf98TW/gskill-ripjaws-v-series-16-gb-2-x-8-gb-ddr4-3200-cl16-memory-f4-3200c16d-16gvkb">$36.00 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Storage</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/chzhP6/crucial-p3-plus-1-tb-m2-2280-nvme-solid-state-drive-ct1000p3pssd8">Crucial P3 Plus 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/chzhP6/crucial-p3-plus-1-tb-m2-2280-nvme-solid-state-drive-ct1000p3pssd8">$72.50 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/Hg92FT/xfx-radeon-rx-6800-16-gb-speedster-swft-319-video-card-rx-68xlaqfd9">XFX Speedster SWFT 319 Radeon RX 6800 16 GB Video Card</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/Hg92FT/xfx-radeon-rx-6800-16-gb-speedster-swft-319-video-card-rx-68xlaqfd9">$369.99 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kKcgXL/montech-air-903-base-atx-mid-tower-case-air-903-base-b">Montech AIR 903 BASE ATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/kKcgXL/montech-air-903-base-atx-mid-tower-case-air-903-base-b">$65.00 @ Newegg</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/YRJp99/corsair-rm750e-2023-750-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020262-na">Corsair RM750e (2023) 750 W 80+ Gold Certified Fully Modular ATX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/YRJp99/corsair-rm750e-2023-750-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020262-na">$99.99 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Monitor</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/zzVmP6/gigabyte-g24f-2-238-1920-x-1080-180-hz-monitor-g24f-2">Gigabyte G24F 2 23.8" 1920 x 1080 180 Hz Monitor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://pcpartpicker.com/product/zzVmP6/gigabyte-g24f-2-238-1920-x-1080-180-hz-monitor-g24f-2">$149.99 @ Amazon</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Custom</td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/3R6NnQ/placeholder">EPOMAKER Ajazz AK820 Pro 75% Mechanical Keyboard, Gasket-Mounted Gaming Keyboard with TFT Smart Display&Knob, Bluetooth 5.1/2.4G Wireless/Type-C Wired Custom Keyboard (Grey, Flying Fish Switc</a></td>
+      <td class="pcpp-part-list-price">
+        Purchased For $58.00
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">$1069.96</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="https://pcpartpicker.com">PCPartPicker</a> 2024-05-11 19:05 EDT-0400</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
